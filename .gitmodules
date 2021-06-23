@@ -1,0 +1,6 @@
+[submodule "td"]
+	path = td
+	url = https://github.com/Betacentury/td.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/Betacentury/cli.git
