@@ -1,5 +1,5 @@
 [submodule "td"]
-	path = td
+	path = TDLib
 	url = https://github.com/Betacentury/td.git
 [submodule "cli"]
 	path = cli
